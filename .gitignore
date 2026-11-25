@@ -1,0 +1,6 @@
+# Local editor files and spreadsheet locks
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+~$*
